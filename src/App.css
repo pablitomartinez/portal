@@ -41,7 +41,7 @@ a {
 .paddingSmall {
   padding: 20px 0;
 }
-ul {
+li,ul {
   list-style-type: none;
 }
 a {
